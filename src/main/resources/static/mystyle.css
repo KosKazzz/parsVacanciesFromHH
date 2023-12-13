@@ -1,0 +1,15 @@
+  /* Style to center grid column */
+        .col-centered{
+            float: none;
+            margin: 0 auto;
+        }
+
+  /* Some custom styles to beautify this example */
+        .row{
+            background: #dbdfe5;
+        }
+        .demo-content{
+            padding: 25px;
+            font-size: 18px;
+            background: #abb1b8;
+        }
